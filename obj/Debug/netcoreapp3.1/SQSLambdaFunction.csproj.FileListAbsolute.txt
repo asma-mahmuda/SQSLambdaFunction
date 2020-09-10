@@ -1,0 +1,12 @@
+C:\dev\SQSLambdaFunction\bin\Debug\netcoreapp3.1\SQSLambdaFunction.deps.json
+C:\dev\SQSLambdaFunction\bin\Debug\netcoreapp3.1\SQSLambdaFunction.runtimeconfig.json
+C:\dev\SQSLambdaFunction\bin\Debug\netcoreapp3.1\SQSLambdaFunction.runtimeconfig.dev.json
+C:\dev\SQSLambdaFunction\bin\Debug\netcoreapp3.1\SQSLambdaFunction.dll
+C:\dev\SQSLambdaFunction\obj\Debug\netcoreapp3.1\SQSLambdaFunction.csprojAssemblyReference.cache
+C:\dev\SQSLambdaFunction\obj\Debug\netcoreapp3.1\SQSLambdaFunction.AssemblyInfoInputs.cache
+C:\dev\SQSLambdaFunction\obj\Debug\netcoreapp3.1\SQSLambdaFunction.AssemblyInfo.cs
+C:\dev\SQSLambdaFunction\obj\Debug\netcoreapp3.1\SQSLambdaFunction.genruntimeconfig.cache
+C:\dev\SQSLambdaFunction\bin\Debug\netcoreapp3.1\SQSLambdaFunction.pdb
+C:\dev\SQSLambdaFunction\obj\Debug\netcoreapp3.1\SQSLambdaFunction.csproj.CoreCompileInputs.cache
+C:\dev\SQSLambdaFunction\obj\Debug\netcoreapp3.1\SQSLambdaFunction.dll
+C:\dev\SQSLambdaFunction\obj\Debug\netcoreapp3.1\SQSLambdaFunction.pdb

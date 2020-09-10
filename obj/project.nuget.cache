@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FDTcVnC+1xDagAMDrUJidocrPhWbQ7lmWn0oK97XTaTh08PU+r8OQHbeqAQXAt48LVoHYzl00ulT9Dvz9sGe4w==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\SQSLambdaFunction\\SQSLambdaFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asmim\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.1.0\\amazon.lambda.apigatewayevents.2.1.0.nupkg.sha512",
+    "C:\\Users\\asmim\\.nuget\\packages\\amazon.lambda.core\\1.1.0\\amazon.lambda.core.1.1.0.nupkg.sha512",
+    "C:\\Users\\asmim\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.0.0\\amazon.lambda.serialization.systemtextjson.2.0.0.nupkg.sha512",
+    "C:\\Users\\asmim\\.nuget\\packages\\amazon.lambda.sqsevents\\1.1.0\\amazon.lambda.sqsevents.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
